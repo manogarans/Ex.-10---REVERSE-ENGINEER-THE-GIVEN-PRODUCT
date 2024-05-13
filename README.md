@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2024-05-13 174130](https://github.com/manogarans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331782/0bf23314-5f05-413a-b924-f8c638c0be6d)
 
 ### Output:
 
+### Name:MANOGARAN S
+### Register Number:212223240081
+![Screenshot 2024-05-13 174038](https://github.com/manogarans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331782/64019fdc-f8d4-4ac9-86fd-a8927128c54a)
 
-### Name:
-### Register Number:
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
